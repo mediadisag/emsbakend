@@ -1,0 +1,6 @@
+[12-May-2025 06:57:11 UTC] Sanitized data: {"name":"Test","dep":"Tech","branch":"454","location":"Thrissur","state":"Kerala"}
+[12-May-2025 06:57:11 UTC] SQL Query: INSERT INTO devices (`device_name`, `device_dep`, `branch_code`, `location`, `state`, `device_uid`, `device_date`) VALUES(?, ?, ?, ?, ?, ?, CURDATE())
+[12-May-2025 06:57:11 UTC] Insert successful. Affected rows: 1
+[13-May-2025 06:10:13 UTC] Sanitized data: {"name":"Test","dep":"HR","branch":"457","location":"Thrissure","state":"Kerala"}
+[13-May-2025 06:10:13 UTC] SQL Query: INSERT INTO devices (`device_name`, `device_dep`, `branch_code`, `location`, `state`, `device_uid`, `device_date`) VALUES(?, ?, ?, ?, ?, ?, CURDATE())
+[13-May-2025 06:10:14 UTC] Insert successful. Affected rows: 1
